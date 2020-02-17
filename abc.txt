@@ -1,3 +1,4 @@
 this is a test document for git learning.
 far away, it is easy.
 new line for "$ git status" check
+I can push the code to github now~
